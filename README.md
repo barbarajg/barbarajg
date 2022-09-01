@@ -2,7 +2,7 @@
 
 I'm Bárbara, a computer enthusiast since childhood, always learning new technologies. I consider myself a creative person, capable to adapt to any work environment and able to add value to my team. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbarajg/)](https://www.linkedin.com/in/barbarajg/)
+[![Linkedin Badge](https://img.shields.io/badge/-barbarajg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbarajg/)](https://www.linkedin.com/in/barbarajg/)
 [![Gmail Badge](https://img.shields.io/badge/-bas@barbarajg.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bas@barbarajg.com)](mailto:bas@barbarajg.com)
 
 
